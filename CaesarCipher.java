@@ -11,7 +11,7 @@ public class CaesarCipher{
                 decode(res2);
             }
             else
-                System.out.println("You did not enter \"encrypt\" or \"decrypt\"");
+                System.out.println("You did not enter \"encode\" or \"decode\"");
                 
         }
 
